@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "673945472619",
+    "project_id": "bookregister-84967",
+    "storage_bucket": "bookregister-84967.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673945472619:android:e82f9e63c2e761e651eb2e",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673945472619-du2s3658ntmnfe00nln0h2cju0avkd5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdRNLfL-eHqHENiHivUS63VFlXJ5C31oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673945472619-du2s3658ntmnfe00nln0h2cju0avkd5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
